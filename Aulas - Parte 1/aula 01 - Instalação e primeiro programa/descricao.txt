@@ -1,0 +1,18 @@
+O que é Python?
+É uma linguagem de programação criada por Guido Van Rossum lançado em 1991
+
+É usado Para:
+desenvolvimento web(serverside)
+desenvolvimento de software.
+
+Caracteristicas
+Pode ser usado em servidores para criar aplicativos da web.
+Pode se conectar a sistemas de banco de dados, pode ler e modificar arquivos.
+Pode ser usado para prototipagem ráida ou para desenvolvimento de software pronto para produção.
+Funciona em diferentes plataformas(Windows, MAc, Linux, Raspberry Pi, etc...)
+Possui uma sintaxe simples e nao é fortemente tipada
+É uma linguagem interpretada e nao compilada, o que significa que o codigo pode ser executado assim que for gravado.
+
+Bom saber
+O Python usa novas linhas para concluir um comando, em oposição a outras linguagens de programacao que geralmente usam ponto e virgula.
+Pyhton conta com recuo, usado em branco, para definir escopo; como o escopo de loops, funções e classes. Outras linguagens de programação costumam usar colchetes para esse fim.
