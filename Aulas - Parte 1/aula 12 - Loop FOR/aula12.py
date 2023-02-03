@@ -3,6 +3,7 @@ O Loop FOR é utilizado para iterar uma sequencia(que pode ser uma lista, uma tu
 um dicionario, um conjunto ou sequencia)
 
 a sintaxe é --> for x in carros, onde x é a variavel que armazenará o conteudo da lista, ou dicionario,
+ou tupla, que neste exemplo é a lista carros.
 
 E o comando FOR irá imprimir cada um dos elementos da lista carros=[]
 ''' 
