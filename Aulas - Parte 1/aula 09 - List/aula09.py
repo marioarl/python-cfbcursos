@@ -1,4 +1,4 @@
-carros = ["HRV", "Golf", "Argo", "Focus"]
+carros = ["HRV", "Golf", "Argo", "Focus", "Ferrari"]
 
 print(carros) #Imprimii a lista carros
 print(carros[0]) #Imprimir o indice 0 da lista carros
