@@ -14,7 +14,7 @@ print("Valor: " + str(num_c) + " - Tipo: " + str(type(num_c)))
 print("Valor: " + str(x) + " - Tipo: " + str(type(x)))
 print("Valor: " + str(y) + " - Tipo: " + str(type(y)))
 
-num_r= random.randrange(0,59) #Gerar um numero aleatorio entre 0 e 59
+num_r= random.randrange(0,59) #Gerar um numero aleatório entre 0 e 59
 print("Valor: " + str(num_r) + " - Tipo: " + str(type(num_r)))
 
 num_r2 = [ #Gerando 6 numeros aleatorios entre 0 e 59 e colocando na LISTA
