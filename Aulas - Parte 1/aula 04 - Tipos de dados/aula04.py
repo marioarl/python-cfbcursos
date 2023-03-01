@@ -1,4 +1,4 @@
-
+#TIPOS DE DADOS
 
 x = 1 #Definindo a variavel x como INT
 print("Valor: ", x)
