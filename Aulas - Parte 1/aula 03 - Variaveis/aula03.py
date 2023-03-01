@@ -1,4 +1,4 @@
-#Qualquer variavel que criamos na parte de cima do programa, sao variaveis GLOBAIS, podem ser acessadas de qualquer parte do programa 
+#Qualquer variável que criamos na parte de cima do programa, sao variaveis GLOBAIS, podem ser acessadas de qualquer parte do programa 
 num1=num2=res=0
 
 
