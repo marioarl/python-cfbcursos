@@ -1,4 +1,4 @@
-from typing import TextIO
+
 
 
 texto = "Curso de Python"
