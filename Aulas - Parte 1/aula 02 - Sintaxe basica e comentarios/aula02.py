@@ -13,7 +13,7 @@ canal="CFB Cursos"
 curso="Curso de Python"
 print(canal + " - " + curso)
 
-num=num2=res=0 #Inicializar varias variaveis com o mesmo valor
+num=num2=res=0 #Inicializar várias variáveis com o mesmo valor
 
 if 10 > 2:
     print("Maior") #Sempre adicionar um recuo dentro de um escopo de comandos, voce pode delimitar a quantidade de espaços(por padrao sao 4 espaços ou a tecla TAB)
