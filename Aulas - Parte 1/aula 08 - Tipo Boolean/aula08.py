@@ -1,4 +1,4 @@
-aula = 10 < 15 #Variavel tipo Bool pode ser definida com True ou False, ou uma expressao que retorne True ou False
+aula = 10 < 15 #Variável tipo Bool pode ser definida com True ou False, ou uma expressao que retorne True ou False
 
 texto = "CFB Cursos"
 texto2 = ""
