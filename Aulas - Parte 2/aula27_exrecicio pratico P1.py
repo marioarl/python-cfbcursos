@@ -21,7 +21,7 @@ class Carro:
     def info(self):
         print(f'Nome...........:{self.nome} ')
         print(f'Potencia.......:{self.pot} ')
-        print(f'Vel. Maxima....:{self.velMax} ')
+        print(f'Vel. Máxima....:{self.velMax} ')
         print(f'Ligado.........:{"Sim" if self.ligado else "Não"}')
 
 def Menu(): #Funcao para desenhar o menu
