@@ -9,7 +9,7 @@ import json
 carros_dictionary={
     'marca':'honda',
     'modelo': 'HRV',
-    'cor': 'prata'
+    'cor': 'vermelho'
 }
 
 #lista - Quando temos uma LISTA em Python e convertemos para JSON, o mesmo vira um array JSON
