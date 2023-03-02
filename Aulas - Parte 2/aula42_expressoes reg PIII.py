@@ -1,6 +1,6 @@
 """
 Expressoes Regulares, RegEX sao como uma mini liguagem de programação e tem recursos bastante interessantes para trabalhar com STRINGS
-PART II
+PART III
 """
 #SPLIT - Encontrara a divisao dos caracteres, onde foi encontrado um espaço por exemplo, retornando uma lista
 
