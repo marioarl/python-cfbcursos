@@ -8,7 +8,7 @@ import re
 
 texto = 'Curso de Python do CFB Cursos, canal do YouTube'
 
-res = re.split(" ", texto)# 1o. parametro o que voce quer pesquisar / 2o parametro o lugar a ser pesquisado
+res = re.split(" ", texto)# 1o. parametro o que voce quer encontrar a divisao / 2o parametro o lugar a ser pesquisado
 print(res)
 print(res[2])
 
