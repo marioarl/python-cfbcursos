@@ -24,3 +24,14 @@ IMPORTANTE: Se formos executar novamente este programa e alterarmos o texto do c
 #É muito importante ao final fechar o aqruivo
 g.close()
 
+#Escrevendo no arquivo através de um INPUT, e vamos abri-lo como a = APPEND
+nome3 = "teste3.txt"
+a = open('Aqui deve conter o caminho do arquivo' + nome3, 'at')
+
+#Criando a variavel de input
+txt = str(input('Digite um texto: ')).strip()
+
+#Escrevendo no arquivo com a variavel de INPUT e colocando uma linha de espaço
+a.write(f'{txt}\n')
+
+a.close()
