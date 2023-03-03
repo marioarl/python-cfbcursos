@@ -2,7 +2,7 @@
 Expressoes Regulares, RegEX sao como uma mini liguagem de programação e tem recursos bastante interessantes para trabalhar com STRINGS
 PART III
 """
-#SPLIT - Encontrara a divisao dos caracteres, onde foi encontrado um espaço por exemplo, retornando uma lista
+#SPLIT - Encontrara a divisão dos caracteres, onde foi encontrado um espaço por exemplo, retornando uma lista
 
 import re  
 
