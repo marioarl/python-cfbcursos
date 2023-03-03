@@ -5,6 +5,9 @@ Operacoes em arquivos P1
 #Colocar em uma variavel e o metodo open() pede 2 parametros 1o. o arquivo que deseja abrir 2o. o modo de abertura do arquivo r= read(leitura) a=append (adiciona) w=write(escrita) x=create(criacao) t=text(texto) b=binary(binario)
 
 #Abaixo criamos uma variavel com o nome do arquivo e no metodo open() concatenamos com o caminho onde o arquivo deve ficar e utilizamos o modo x para criar o arquivo
+'''
+IMPORTANTE: Quando colocar o caminho do arquivo, lembre-se de trocar a '\ por / pois o PYTHON
+'''
 nome = "teste.txt"
 f=open('Aqui deve conter o caminho do arquivo' + nome, "x" )
 
