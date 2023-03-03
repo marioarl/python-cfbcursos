@@ -6,11 +6,11 @@ Operacoes em arquivos P1
 
 #Abaixo criamos uma variavel com o nome do arquivo e no metodo open() concatenamos com o caminho onde o arquivo deve ficar e utilizamos o modo x para criar o arquivo
 nome = "teste.txt"
-f=open('C:/Users/Mario/Documents/testes nao estao no github/testes2/CFB/' + nome, "x" )
+f=open('Aqui deve conter o caminho do arquivo' + nome, "x" )
 
 #O modo w(write), também cria o arquivo caso ele não exista
 nome2 = "teste2.txt"
-g=open('C:/Users/Mario/Documents/testes nao estao no github/testes2/CFB/' + nome2, "w" )
+g=open('Aqui deve conter o caminho do arquivo' + nome2, "w" )
 
 #Neste momento o arquivo teste2.txt já está aberto para a escrita e vamos escrever dentro do arquivo
 g.write('CFB Cursos')
