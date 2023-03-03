@@ -2,6 +2,7 @@ from os import system
 import random
 from colorama import Fore,Back, Style
 
+#CONTINUACAO
 #VARIAVEIS
 jogarNovamente = 's'
 jogadas=0
