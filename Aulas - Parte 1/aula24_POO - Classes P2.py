@@ -37,3 +37,4 @@ c3.mostrar()
 
 c1.andar()
 c2.andar()
+c2.ligar()
