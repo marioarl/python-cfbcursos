@@ -10,7 +10,7 @@ Neste caso dentro do diretorio aula34, foi criado 2 arquivos (aula34.py e canal.
 o canal.py é um arquivo onde está uma funcao chamada canal() que será utilizado pelo
 programa do arquivo aula34.py
 '''
-import canal as cn # importando canal como ALIAS
+import canal as cn # importando canal como ALIAS(APELIDO)
 
 cn.canal_nome()
 print(cn.jogador['nome'])
