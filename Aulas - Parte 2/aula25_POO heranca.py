@@ -6,7 +6,7 @@ class NPC: #Base, Pai, Super classe
         self.forca = forca
         self.municao = municao
         self.vivo = True
-        self.energia = 100
+        self.energia = 300
     def info(self):
         print(f'Nome....: {self.nome}')
         print(f'Time....: {self.time}')
