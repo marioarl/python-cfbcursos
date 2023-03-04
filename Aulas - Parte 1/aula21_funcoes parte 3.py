@@ -1,5 +1,5 @@
 # Funcoes com retorno de valores
-valores = [1,5,3,2,10,4,8]
+valores = [1,5,3,2,10,4,8, 15,20]
 
 def somar(num):
     r = 0
