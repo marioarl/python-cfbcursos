@@ -9,6 +9,13 @@ linhas
 
 """
 
+'''
+Este tambem é um comentário mas usando aspas simples
+
+'''
+
+
+
 canal="CFB Cursos"
 curso="Curso de Python"
 print(canal + " - " + curso)
