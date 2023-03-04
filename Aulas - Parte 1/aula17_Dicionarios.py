@@ -1,5 +1,5 @@
 # Criando um dicionario com valores, mas é possivel cria-lo vazio ( carro = {} ou carro = dict())
-carro = {'Fabricante': 'Honda', 'Modelo': 'HRV', 'Ano': '2016', 'Cor': 'Prata' }
+carro = {'Fabricante': 'Honda', 'Modelo': 'HRV', 'Ano': '2016', 'Cor': 'Vermelho' }
 
 #for x in carro:
     #print(x) # somente as chaves (Fabricante, modelo, ano e cor)
