@@ -1,4 +1,4 @@
-# Iterators - Objeto que pode ser iterado
+# Iterators - Objeto que poderá ser iterado
 
 carros = ['HRV', 'Polo', 'Jetta', 'Cruze', 'Fusion']
 
