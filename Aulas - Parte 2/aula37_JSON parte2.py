@@ -49,7 +49,7 @@ carros_j = json.dumps(carros_dictionary, indent=4, separators=(":", "="))
 print(carros_j)
 print('='*50)
 
-#sort_keys - Imprimi ordenando as chaves (True ou False)
+#sort_keys - Imprimirá ordenando as chaves (True ou False)
 carros_j = json.dumps(carros_dictionary, indent=4, separators=(":", "="), sort_keys=True) 
 print(carros_j)
 print('='*50)
