@@ -2,7 +2,7 @@
 nome = 'teste.txt'
 f = open('Aqui deve conter o caminho do arquivo' + nome, 'rt')
 
-print(f.read(10)) # Le os 10 primeiros caracteres do arquivo
+print(f.read(10)) # O Comando le os 10 primeiros caracteres do arquivo
 
 
 f.close()
