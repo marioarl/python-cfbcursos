@@ -4,7 +4,7 @@ caminho = 'Aqui deve conter o caminho do arquivo'
 f = open(caminho + nome, 'x')
 f.close()
 
-#Apagando o arquivo
+#Apagar o arquivo
 os.remove(caminho + nome)
 
 print('==========================')
