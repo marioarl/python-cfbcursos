@@ -57,7 +57,7 @@ for a in jogador["aeronaves"]:
     print(a["habilidade"])
 print('=============================')
 
-#imprimindo as informacoes das aernovaves
+#imprimindo as informações das aernovaves
 print('Imprimindo as informacoes das aernovaves')
 for a in jogador["aeronaves"]:
     print(f'{a["tipo"]} - {a["habilidade"]}')
