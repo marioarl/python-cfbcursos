@@ -2,7 +2,7 @@
 Expressoes Regulares, RegEX são como uma mini liguagem de programação e tem recursos bastante interessantes para trabalhar com STRINGS
 
 """
-#Findall - Serve para encontrar todas as ocorrencias de uma determinada STRING em outra STRING e retorna uma colecao com essa pesquisa
+#Findall - Serve para encontrar todas as ocorrencias de uma determinada STRING em outra STRING e retorna uma coleção com essa pesquisa
 
 import re #Importando a biblioteca REGEX
 
