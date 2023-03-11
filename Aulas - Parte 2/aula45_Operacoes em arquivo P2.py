@@ -30,7 +30,7 @@ res2 = re.sub(' ', '-', h.readline())
 h.close()
 print(res2)
 
-#Escrever o retorno da variável res2 dentro do arquivo teste3.txt, mas sem apagar os dados do aqruivo
+#Escrever o retorno da variável res2 dentro do arquivo teste3.txt, mas sem apagar os dados do arquivo
 
 h = open('Aqui deve conter o caminho do arquivo' + nome3, 'at')
 h.write(f'{res2}')
